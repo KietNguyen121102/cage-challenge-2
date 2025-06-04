@@ -19,6 +19,7 @@ class BlueReactRemoveAgent(BaseAgent):
                 if host_name not in self.host_list and host_name != 'User0' and 'Processes' in host_info and len([i for i in host_info['Processes'] if 'PID' in i]) > 0:
                     self.host_list.append(host_name)
         # assume a single session in the action space
+ 
         session = list(action_space['session'].keys())[0]
         if len(self.host_list) == 0:
             self.last_action = 'Monitor'
@@ -51,6 +52,7 @@ class BlueReactRestoreAgent(BaseAgent):
                 if host_name not in self.host_list and host_name != 'User0' and 'Processes' in host_info and len([i for i in host_info['Processes'] if 'PID' in i]) > 0:
                     self.host_list.append(host_name)
         # assume a single session in the action space
+        print(action_space)
         session = list(action_space['session'].keys())[0]
         if len(self.host_list) == 0:
             self.last_action = 'Monitor'

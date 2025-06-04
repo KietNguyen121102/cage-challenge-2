@@ -1,0 +1,101 @@
+steps: 99, mean: -0.528, standard deviation 0.4944295764419905
+actions: ('Monitor', 'DiscoverRemoteSystems 10.0.97.48/28'), total reward: 0.0
+actions: ('Monitor', 'DiscoverNetworkServices 10.0.97.50'), total reward: 0.0
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: -0.1
+actions: ('Restore User1', 'PrivilegeEscalate User1'), total reward: -1.0
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: -0.1
+actions: ('Restore User1', 'PrivilegeEscalate User1'), total reward: -1.0
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: -0.1
+actions: ('Restore User1', 'PrivilegeEscalate User1'), total reward: -1.0
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: 0.0
+actions: ('Monitor', 'PrivilegeEscalate User1'), total reward: -0.1
+actions: ('Monitor', 'DiscoverNetworkServices 10.0.203.26'), total reward: -0.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: -0.1
+actions: ('Monitor', 'PrivilegeEscalate User1'), total reward: -0.1
+actions: ('Monitor', 'DiscoverNetworkServices 10.0.203.26'), total reward: -0.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: -0.1
+actions: ('Restore User1', 'PrivilegeEscalate User1'), total reward: -1.0
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: -0.1
+actions: ('Restore User1', 'PrivilegeEscalate User1'), total reward: -1.0
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: -0.1
+actions: ('Restore User1', 'PrivilegeEscalate User1'), total reward: -1.0
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: 0.0
+actions: ('Monitor', 'PrivilegeEscalate User1'), total reward: -0.1
+actions: ('Monitor', 'DiscoverNetworkServices 10.0.203.26'), total reward: -0.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -1.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -1.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: -0.1
+actions: ('Monitor', 'PrivilegeEscalate User1'), total reward: -0.1
+actions: ('Monitor', 'DiscoverNetworkServices 10.0.203.26'), total reward: -0.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -1.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Restore Enterprise1', 'PrivilegeEscalate Enterprise1'), total reward: -1.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.203.26'), total reward: -0.1
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: -0.1
+actions: ('Restore User1', 'PrivilegeEscalate User1'), total reward: -1.0
+actions: ('Monitor', 'ExploitRemoteService 10.0.97.50'), total reward: -0.1
+actions: ('Restore User1', 'PrivilegeEscalate User1'), total reward: -1.0
